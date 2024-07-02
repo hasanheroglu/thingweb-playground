@@ -424,7 +424,6 @@
 "td-security-extension","null","not testable with Assertion Tester","Additional security schemes MUST be Subclasses of the Class SecurityScheme."
 "td-text-direction-first-strong","null","not testable with Assertion Tester","When metadata such as @direction is not present, TD Consumers SHOULD use [=first-strong detection=] as a fallback."
 "td-text-direction-language-tag","null","not testable with Assertion Tester","For the MultiLanguage Map, TD Consumers MAY infer the [=base direction=] from the language tag of the individual strings."
-"ID","Status","Comment","Assertion"
 "tm-compose-instanceName","not-impl",,
 "tm-compose-submodel","not-impl",,
 "tm-context-requirement","pass",,
